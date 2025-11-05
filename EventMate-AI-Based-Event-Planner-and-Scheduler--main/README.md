@@ -180,13 +180,6 @@ Frontend (React)  <—>  Backend (Spring Boot REST API)  <—>  Database (MySQL)
 * **CORS issues:** Add `@CrossOrigin` annotation in controllers.
 * **MySQL error “Data truncated”:** Increase column size for image_link.
 
----
-
-## 👨‍💻 Contributors
-
-* **[K Naveen Kumar]** – Full Stack Developer
-
-
 
 ## 📎 License
 
