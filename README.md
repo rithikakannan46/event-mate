@@ -1,4 +1,4 @@
-⭐ EventMate – Smart Event & Venue Management Platform
+⭐ **EventMate – Smart Event & Venue Management Platform**
 
 A lightweight full-stack web application built to simplify event booking, venue scheduling, and organizer-attendee interaction.
 Developed using **React, Spring Boot, and MySQL** with real-time validation and a clean, responsive UI.
